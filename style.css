@@ -5,8 +5,8 @@ body {
 
 .header {
   /* position: relative; */
-  margin-top: 200px;
-  margin-left: 60vw;
+  margin-top: 300px;
+  margin-left: 60%;
   font-size: 60px;
   font-family: roboto;
   font-weight: bold;
