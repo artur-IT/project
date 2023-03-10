@@ -3,10 +3,12 @@ body {
   background-image: url("landscape.jpg");
 }
 
-h1 {
+.header {
   /* position: relative; */
   margin-top: 200px;
   margin-left: 60vw;
   font-size: 60px;
   font-family: roboto;
+  font-weight: bold;
+  color: white;
 }
